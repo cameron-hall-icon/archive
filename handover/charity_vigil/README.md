@@ -1,8 +1,7 @@
 # Cameron Hall Charity Vigil Handover
-::: info
-Written by Jackie Shan (Unigames 2021 Treasurer) after 2021 Charity Vigil, with reference to the Unigames 2018 Charity Vigil handover by Jasmine and Nadia
+
+First written by Jackie Shan (Unigames 2021 Treasurer) after 2021 Charity Vigil, with reference to the Unigames 2018 Charity Vigil handover by Jasmine and Nadia
 > 2021 subcommitee: Unigames - Jackie Shan, Ethan Gibson; UniSFA - Freyja Dyson, Will Jacquet; UCC - Alex Barker, Nicholas Clements; PCS - Gozz Gozzard, Michael Nef
-:::
 
 ```
 File History:
